@@ -4,11 +4,11 @@ const AboutMe = () => {
     <div class="container">
       <div class="text-container">
         <div class="page-title">
-          <p>Hayden McDowall</p>
+          <p>A little bit about me</p>
         </div>
 
         <div class="paragraph-title">
-          <p>A little bit about me:</p>
+          <p>Hayden McDowall</p>
         </div>
 
         <div class="paragraph">
