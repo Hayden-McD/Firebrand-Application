@@ -1,7 +1,8 @@
 .container{
   background-color: white;
-  height: 100vh;
+  height: 100%;
   margin: 0;
+  padding: 0;
 }
 
 .title{
@@ -9,24 +10,28 @@
   font-size: 50px;
 }
 
-.page-select-buttons{
-width: 100vw;
-}
-
-.next{
-  margin-right: 50px;
-  width: 5vw;
-  height: 3vw;
-  float: right;
-}
-
-.previous{
-  margin-left: 50px;
-  width: 5vw;
-  height: 3vw;
-  float: left;
-}
-
-.body-container {
+.text-container {
   margin-top: 2rem;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+.page-title {
+  font-size: 4rem;
+  border-bottom-style: solid;
+  border-width: 2px;
+  border-color: red;
+  width: 83.1vw;
+}
+
+.paragraph-title {
+  padding-top: 6vh;
+  font-size: 3rem;
+  max-width: 50%;
+}
+
+.paragraph {
+ font-size: 1.5rem;
+ max-width: 50%;
 }
