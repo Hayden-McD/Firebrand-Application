@@ -23,6 +23,7 @@
   border-width: 2px;
   border-color: red;
   width: 83.1vw;
+  text-align: center;
 }
 
 .paragraph-title {
@@ -34,4 +35,27 @@
 .paragraph {
  font-size: 1.5rem;
  max-width: 50%;
+}
+
+.papers-list{
+  text-align: left;
+  width: 50%;
+}
+
+.paper-title{
+  font-size: 2rem;
+}
+
+.asd{
+  display: flex;
+  column-count: 2;
+  column-width: 250px;
+  column-gap: 50px;
+  max-width: 75%;
+  margin: 0 auto;
+ 
+}
+
+.paper-container-right{
+  max-width: 570px;
 }
