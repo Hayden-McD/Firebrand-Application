@@ -8,7 +8,7 @@ const Skills = () => {
         <p>My special skills and attributes</p>
       </div>
       <div class="skills-container">
-        <h3>
+        <h3 class="skills-title">
           Skills & Attributes:
         </h3>
         <ListGroup class="skills-list">
