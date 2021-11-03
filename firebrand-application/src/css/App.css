@@ -21,6 +21,7 @@
 .paragraph {
  font-size: 1.5rem;
  max-width: 50%;
+ text-align: center;
 }
 
 .papers-list{
@@ -54,3 +55,10 @@
 .skills-title{
   margin-top: 30px;
 }
+
+.why-paragraph {
+  font-size: 1.5rem;
+  max-width: 50%;
+  text-align: center;
+  margin: 50px auto;
+ }
