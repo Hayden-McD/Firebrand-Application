@@ -11,7 +11,7 @@ const MyStudy = () => {
       <div class="paragraph-title">
         <p>Papers I've studied: </p>
       </div>
-      <div class="asd">
+      <div class="column-wrapper">
         <div class="paper-container-left">
           <h3>
             First year:

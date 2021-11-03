@@ -32,7 +32,7 @@
   font-size: 2rem;
 }
 
-.asd{
+.column-wrapper{
   display: flex;
   column-count: 2;
   column-width: 250px;
