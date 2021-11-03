@@ -18,7 +18,7 @@ const AboutMe = () => {
 
       <div class="paragraph">
         <p>
-          Over the years I have had many interests from Air Cadets to playing with all things electronic. I have gained a particular interest in crypto mining, 3d-printing,
+          Over the years I have had many interests from Air Cadets to playing with all things electronic. I have gained a particular interest in 3d-printing,
           Gaming, Mountain biking and cars to name a few.
         </p>
       </div>
@@ -26,7 +26,7 @@ const AboutMe = () => {
       <div class="paragraph">
         <p>
           I always like to keep myself busy by working on small projects or expanding my knowledge.
-          I chose to study I.T as I felt this aligned with my areas of interest.
+          I chose to study IT as I felt this aligned with my areas of interest.
         </p>
       </div>
     </>
