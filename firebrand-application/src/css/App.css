@@ -45,3 +45,8 @@
 .paper-container-right{
   max-width: 570px;
 }
+
+.skills-container{
+  max-width: 50%;
+  margin: 0 auto;
+}
