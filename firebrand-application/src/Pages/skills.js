@@ -15,11 +15,11 @@ const Skills = () => {
           <ListGroup.Item>Fast Learner</ListGroup.Item>
           <ListGroup.Item>Always wanting to expand my knowledge</ListGroup.Item>
           <ListGroup.Item>Passionate about IT</ListGroup.Item>
-          <ListGroup.Item>Able to work induvidially or in a group</ListGroup.Item>
+          <ListGroup.Item>Able to work individually or in a group</ListGroup.Item>
           <ListGroup.Item>Aim for excellence</ListGroup.Item>
           <ListGroup.Item>Laid-back but serious when need </ListGroup.Item>
           <ListGroup.Item>Work well under pressure</ListGroup.Item>
-          <ListGroup.Item>Commited worker</ListGroup.Item>
+          <ListGroup.Item>Committed worker</ListGroup.Item>
         </ListGroup>
       </div>
     </>
@@ -27,3 +27,4 @@ const Skills = () => {
 }
 
 export default Skills
+

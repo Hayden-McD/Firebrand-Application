@@ -12,7 +12,7 @@ const AboutMe = () => {
 
       <div class="paragraph">
         <p>
-          I am 21 years old, Dunedin born and raised. I still live at home with my amazing mum, my Dog Jazz and my Bearded Dragon Larry.
+          I am 21 years old, Dunedin born and raised. I still live at home with my amazing mum, my dog Jazz, and my bearded dragon Larry.
         </p>
       </div>
 
@@ -26,7 +26,7 @@ const AboutMe = () => {
       <div class="paragraph">
         <p>
           I always like to keep myself busy by working on small projects or expanding my knowledge.
-          I chose to study IT as I felt this aligned with my areas of interest.
+          I chose to study Information Technology as I felt this aligned with my areas of interest.
         </p>
       </div>
     </>
